@@ -1,0 +1,6 @@
+.idea/
+.mvn/
+mvnw.cmd
+shutdown.sh
+startup.sh
+src/main/resources/
